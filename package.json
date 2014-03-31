@@ -1,0 +1,9 @@
+{
+  "name": "autohidespojcomments",
+  "title": "Auto Hide Spoj Comments",
+  "id": "jid1-cGuVpo8OmAysjA",
+  "description": "A Simple addon which auto hides SPOJ Problem Comments upon proble page load.",
+  "author": "Abhishek kannojia, Aditya Varma",
+  "license": "MPL 2.0",
+  "version": "0.2"
+}
